@@ -1,0 +1,39 @@
+{
+   "movies":[
+       {
+           "timeSpan":[1],
+           "specificTimeSpan":[["10:00","11:59"]],
+           "name":"死侍2: 我爱我家",
+           "rating":7.9,
+           "type":"动作,冒险,喜剧,科幻"
+       },
+       {
+            "timeSpan":[1],
+            "specificTimeSpan":[["09:50","11:29"]],
+            "name":"白蛇：缘起",
+            "rating":9.2,
+            "type":"爱情,奇幻,动画"
+       },
+       {
+            "timeSpan":[2],
+            "specificTimeSpan":[["13:10","15:04"],["13:55", "15:49"]],
+            "name":"大黄蜂",
+            "rating":8.8,
+            "type":"动作,科幻,冒险"
+       },
+       {
+            "timeSpan":[1,2],
+            "specificTimeSpan":[["10:00","11:59"],["14:10","15:57"]],
+            "name":"“大”人物",
+            "rating":8.8,
+            "type":"犯罪,动作"
+        },
+        {
+            "timeSpan":[1],
+            "specificTimeSpan":[["09:40","11:12"]],
+            "name":"熊出没·原始时代",
+            "rating":"无",
+            "type":"喜剧,动画,冒险"
+            }
+   ]
+}
